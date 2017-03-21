@@ -15,4 +15,7 @@ The previous blogs can be searched by the title of the blog as well as any word 
 
 ### SCREENSHOTS
 
-
+![Alt text](https://github.com/yash-123/myblog/blob/master/Screenshot/Shot1.png "Screenshot")
+![Alt text](https://github.com/yash-123/myblog/blob/master/Screenshot/Shot2.png "Screenshot")
+![Alt text](https://github.com/yash-123/myblog/blob/master/Screenshot/Shot3.png "Screenshot")
+![Alt text](https://github.com/yash-123/myblog/blob/master/Screenshot/Shot4.png "Screenshot")
